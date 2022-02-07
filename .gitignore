@@ -1,0 +1,8 @@
+.bin/
+safe-buffer/
+rcon-cli/
+discord-rich/
+string_decoder/
+arrayStrings/
+
+static-host/node_modules/

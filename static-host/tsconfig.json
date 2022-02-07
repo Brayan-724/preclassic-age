@@ -1,0 +1,19 @@
+{
+  "files": ["./src/index.ts"],
+  "exclude": ["./node_modules", "./src", "./.git"],
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "dist/",
+    "declaration": true,
+    "declarationMap": true,
+    "types": ["node", "express"],
+    "esModuleInterop": true,
+    "strict": true,
+    "alwaysStrict": true,
+    "watch": true,
+    "target": "ES6",
+    "module": "ES6",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  }
+}

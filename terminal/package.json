@@ -1,0 +1,8 @@
+{
+	"name": "terminal",
+	"version": "1.0.0",
+	"main": "index.js",
+	"dependecies": {
+		"terminal-essencial": "1.0.0"
+	}
+}
